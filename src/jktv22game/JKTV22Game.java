@@ -17,6 +17,7 @@ public class JKTV22Game {
     public static void main(String[] args) {
         App app;
         app = new App();
+        app.run();
         // TODO code application logic here
     }
     
